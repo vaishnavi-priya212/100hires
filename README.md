@@ -38,7 +38,7 @@ B2B SaaS companies increasingly need content strategies built for AI-mediated di
 7. Glenn Gabe — G-Squared Interactive (AI Overviews impact case studies)
 8. Cyrus Shepard — Zyppy SEO (AI content production experiments)
 9. Ross Simmonds — Foundation Marketing (B2B content distribution + AI workflows)
-10. Areej AbuAli — Women in Tech SEO (AI SEO community insights)
+10. Britney Muller — AI/SEO educator, ex-Moz/Hugging Face (LLM citation measurement, AI content tools)
 
 Full annotations with links: [`research/sources.md`](research/sources.md)
 
