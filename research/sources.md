@@ -106,15 +106,11 @@ List of 10 experts chosen for this research project, with links, focus areas, an
 
 
 
-\## 10. Areej AbuAli
-
-\- \*\*Role:\*\* Founder, Women in Tech SEO
-
-\- \*\*LinkedIn:\*\* https://www.linkedin.com/in/areejabuali/
-
-\- \*\*YouTube/Other:\*\* Women in Tech SEO YouTube/community content
-
-\- \*\*Why chosen:\*\* Active community builder discussing AI SEO trends with a practitioner network; brings community-level signal on what's actually working day to day.
+## 10. Britney Muller
+- **Role:** AI educator & consultant; ex-Senior SEO Scientist at Moz, ex-Hugging Face
+- **LinkedIn:** https://www.linkedin.com/in/britneymuller/
+- **YouTube/Other:** Frequent podcast guest on AI/SEO shows, runs an "Actionable AI" course
+- **Why chosen:** Bridges data science and SEO with practical tools for measuring LLM citation patterns and instrumenting sites for AI-referral traffic — directly relevant to AI-powered content production workflows.
 
 
 
